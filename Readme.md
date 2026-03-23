@@ -2,7 +2,7 @@
 
 Official PyTorch implementation of **M2-PRNet: Multi-Scale and Multi-Modal Learning for Protein–RNA Binding Affinity Prediction**
 
-<img src="./assets/model.jpg" alt="Overview of M2-PRNet" width="800">
+<img src="./assets/model.png" alt="Overview of M2-PRNet" width="800">
 
 M2-PRNet is a multi-scale and multi-modal framework for protein–RNA binding affinity prediction, combining atomistic interactions, residue-level organization, and global structural representations. It achieves state-of-the-art performance and strong generalization on dynamic and cold-start scenarios.
 
