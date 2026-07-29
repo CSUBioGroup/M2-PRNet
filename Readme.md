@@ -21,7 +21,8 @@ We release the datasets used in this work via 🤗 Hugging Face:
 👉 [https://huggingface.co/datasets/NikoWz/M2-PRNet)
 
 - **PRA310** (full dataset, including PRA201 subset): `PRA310.csv`  
-- **MD150** (MD-derived dynamic dataset): `MD150.csv`
+- **MD150** (1ns MD-derived dynamic dataset): `MD150.csv`
+- **MD75-10ns** (10ns MD-derived dynamic dataset): `MD75-10ns.csv`
 
 Dataset statistics are summarized below. PRA denotes protein–RNA binding affinity datasets:
 
@@ -29,7 +30,8 @@ Dataset statistics are summarized below. PRA denotes protein–RNA binding affin
 | :---: | :---: | :---: |
 | PRA310 | PRA | 310 |
 | PRA201 | PRA (pair-only) | 201 |
-| MD150 | MD-derived dynamic complexes | 150 |
+| MD150 | 1ns MD-derived dynamic complexes | 150 |
+| MD75 | 10ns MD-derived dynamic complexes | 75 |
 
 ## 📦 Model Checkpoints
 
