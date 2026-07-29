@@ -18,7 +18,7 @@ conda activate m2prnet_env
 ## 📖 Datasets and Model Weights
 
 We release the datasets used in this work via 🤗 Hugging Face:  
-👉 [/NikoWz/M2-PRNet](https://huggingface.co/NikoWz/M2-PRNet)
+👉 [https://huggingface.co/datasets/NikoWz/M2-PRNet)
 
 - **PRA310** (full dataset, including PRA201 subset): `PRA310.csv`  
 - **MD150** (MD-derived dynamic dataset): `MD150.csv`
